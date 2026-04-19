@@ -22,16 +22,16 @@ docker run -p 80:80 todo-app
 ## Project Screenshots
 
 ### GitHub Repository
-![GitHub Repo](./assets/github.png)
+![GitHub Repo](./assets/Github.png)
 
 ### Docker Containers Running
 ![Docker PS](./assets/docker-ps.png)
 
 ### Docker Images
-![Docker Images](./assets/docker-images.png)
+![Docker Images](./assets/images.png)
 
 ### Application UI
-![App UI](./assets/app.png)
+![App UI](./assets/Apps.png)
 
 ### DevOps Overview
 ![Extra](./assets/extra.png)
