@@ -18,3 +18,20 @@ docker run -p 80:80 todo-app
 - Docker
 - Nginx
 - GitHub Actions
+
+## Project Screenshots
+
+### GitHub Repository
+![GitHub Repo](./assets/github.png)
+
+### Docker Containers Running
+![Docker PS](./assets/docker-ps.png)
+
+### Docker Images
+![Docker Images](./assets/docker-images.png)
+
+### Application UI
+![App UI](./assets/app.png)
+
+### DevOps Overview
+![Extra](./assets/extra.png)
