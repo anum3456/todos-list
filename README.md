@@ -13,6 +13,10 @@ A simple Todo application built using React, containerized with Docker, and inte
 docker build -t todo-app .
 docker run -p 80:80 todo-app
 
+##Run the app
+```bash
+npm start
+```
 ## Tech Stack
 - React.js
 - Docker
